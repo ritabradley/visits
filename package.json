@@ -1,0 +1,15 @@
+{
+    "name": "visits",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "express": "*",
+        "redis": "7.0.11"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Rita Bradley"
+}
