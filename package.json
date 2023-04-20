@@ -5,7 +5,7 @@
     "main": "index.js",
     "dependencies": {
         "express": "*",
-        "redis": "4.6.5"
+        "redis": "2.8.0"
     },
     "scripts": {
         "start": "node index.js"
