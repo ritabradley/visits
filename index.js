@@ -1,5 +1,4 @@
 const express = require('express');
-const cli = require('nodemon/lib/cli');
 const redis = require('redis');
 
 const app = express();
